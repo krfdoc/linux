@@ -2,9 +2,7 @@ layout: page
 title: "symlink"
 permalink: https://krfdoc.github.io/linux/symlink
 
-<! Template for Copy/Paste Line -->
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
